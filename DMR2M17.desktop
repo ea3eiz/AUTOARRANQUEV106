@@ -2,7 +2,7 @@
 Encoding=UTF-8
 TryExec=lxterminal
 Exec=sh -c 'cd /home/pi/V106;sleep 15;lxterminal --geometry=77x12 -e sudo sh ejecutar_DMR2M17.sh'
-Icon=/home/pi/V106/ICONO_DMR2YSF_OFF.png
+Icon=/home/pi/V106/ICONO_M17_OFF.png
 Type=Application
 StartupNotify=false
 Categories=GTK;Utility;TerminalEmulator;
